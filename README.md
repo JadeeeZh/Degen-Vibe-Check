@@ -1,7 +1,11 @@
+Minimal responsive dashboard for quick token due diligence across liquidity, contract risk, and hype. 
+
+https://degen-vibe-check.onrender.com/
+
+
 # Degen Vibe Check
 
-Minimal responsive dashboard for quick token due diligence across liquidity, contract risk, and hype. 
-https://degen-vibe-check.onrender.com/
+Degen Vibe Check is a lightweight pre-trade token screening dashboard for retail crypto users. Instead of acting like a full audit platform, it helps users quickly assess whether a newly launched token looks healthy, risky, or potentially manipulative. By combining liquidity quality, contract risk, social attention, and post-launch market behavior into a single explainable interface, the product highlights the token’s best signal, biggest risk, and overall Vibe Score. The goal is to turn fragmented on-chain and social data into a fast, actionable decision surface before users ape into a trade.
 
 ## Stack
 
