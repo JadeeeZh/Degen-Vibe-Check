@@ -1,6 +1,7 @@
 # Degen Vibe Check
 
-Minimal responsive dashboard for quick token due diligence across liquidity, contract risk, and hype.
+Minimal responsive dashboard for quick token due diligence across liquidity, contract risk, and hype. 
+https://degen-vibe-check.onrender.com/
 
 ## Stack
 
